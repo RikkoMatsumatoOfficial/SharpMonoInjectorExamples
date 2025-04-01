@@ -10,7 +10,7 @@ namespace SharpMonoInjectorSimpleExample
     {
         private void OnGUI()
         {
-            UnityEngine.GUI.Label(new UnityEngine.Rect(10, 10, 200, 40), "It's Just Example!!! Nothing More!!!");
+            UnityEngine.GUI.Label(new UnityEngine.Rect(10, 10, 200, 40), "It's Just Example!!! Nothing Much!!!");
         }
     }
 }
