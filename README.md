@@ -1,7 +1,7 @@
 # SharpMonoInjectorExamples
 This is Just Examples for [SharpMonoInjector](https://github.com/RikkoMatsumatoOfficial/SharpMonoInjector)... So Enjoy to use this!!!
 
-P.S: I'm create this **ONLY FOR EDUCATIONAL PURPOSAL!!!** Thanks for Reading This Post Scriptum!!! Soon will be Added Example with Imgui Menu and ESP!!!
+P.S: I'm create this **ONLY FOR EDUCATIONAL PURPOSAL!!!** Thanks for Reading This Post Scriptum!!! Soon will be Added Example with Imgui Menu(Unity3D Version) and ESP!!!
 
 # PoC(Proof of Concept!!!)
 
