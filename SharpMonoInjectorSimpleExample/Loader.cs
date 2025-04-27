@@ -23,6 +23,10 @@ namespace SharpMonoInjectorSimpleExample
             {
                 Example.Unload();
             }
+            if (Input.GetKeyUp(KeyCode.Delete))
+            {
+                Environment.Exit(43);
+            }
         }
     }
 }
